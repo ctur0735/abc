@@ -1,2 +1,3 @@
-// hello
-// abcdefg
+# hello
+# abcdefg
+print("hello world")
